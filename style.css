@@ -402,7 +402,7 @@ cursor:wait;
 
 #certificate img {
 filter: blur(1px);
-width: 800px;
+width: 80%;
 height: 600px;
 object-fit: cover;
 margin-bottom: 15px;
